@@ -1,4 +1,4 @@
-package com.cayanay.noteapp
+package com.cayanay.noteapp.feature.note.presentation
 
 import android.os.Bundle
 import androidx.activity.ComponentActivity
